@@ -1,0 +1,15 @@
+{
+  "name": "prrajis-syntax",
+  "theme": "syntax",
+  "version": "0.3.0",
+  "description": "Dark terminal atom syntax theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/RAJESHI2IT/autom-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
